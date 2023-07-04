@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:286c905d2e8a282073c731df44bf9f6bd761ee3edb1186c7af4c1fe77e673dbd
